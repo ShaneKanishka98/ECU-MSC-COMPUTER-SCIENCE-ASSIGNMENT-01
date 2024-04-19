@@ -1,0 +1,13 @@
+Begin
+
+    prompt the difficulaty mode
+    
+    Read difficulaty mode
+
+
+
+
+
+
+
+End
